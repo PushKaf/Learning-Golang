@@ -30,6 +30,5 @@ func main() {
 			fmt.Println("Wrong number... Try again. \nLives remaining:", lives)
 		}
 	}
-
 	fmt.Println("The secret number was:", secretNumber)
 }
